@@ -4,7 +4,7 @@ public class Gestion {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("Gestión Integral vº 1.0.1");
+		System.out.println("Gestión Integral vº 3.0.0");
 	}
 
 }
